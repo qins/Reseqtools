@@ -4,7 +4,7 @@ Reseqtools
 A Toolkit for analyzing next-generation DNA Re-Sequencing data
 
 ==========
-If you have any question ,contact the email: hewm2008@gmail.com/hewm2008@qq.com  and also join the QQ Group : 125293663
+If you have any question ,contact the email: hewm2008@gmail.com  /  hewm2008@qq.com  and also join the QQ Group : 125293663
 we will send you the newest  Reseqtools (iTools_CodeXX.tar.gz)  for you  
 iTools_Code20141230.tar.gz
 ==========
@@ -22,6 +22,7 @@ iTools has 10 module, every module is the tool for dealing with specific format 
 10 Vartools                 Tools For SOAP Variant
 11 Othrtools                LDDecay etc
 Users also can comprehensive understand of function by get the readme/ppt
+==========
 重测序分析集成工具包 linux 64位平台 静态编译 chmod 便可以直接运行了 （ReSeqTools/iTools）
 即在linux64机上只须 tar -zxvf  ReSeqTools_XXX.tar.gz   ;  cd   iTools_Code;  chmod 775 iTools ;  ./ iTools  -h   ; 无须重新make 
 QQ交流群 群名称是Reseqtools  QQ群号： 125293663
