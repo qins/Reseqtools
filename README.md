@@ -4,8 +4,8 @@
 A Toolkit for analyzing next-generation DNA Re-Sequencing data
 
 ==========
-If you have any question ,contact the email: hewm2008@gmail.com  /  hewm2008@qq.com  and also join the QQ Group : 125293663
-we will send you the newest  Reseqtools (iTools_CodeXX.tar.gz)  for you  
+If you have any question ,contact the email: hewm2008@gmail.com  /  hewm2008@qq.com  and also join the<b> QQ Group : 125293663
+</b> we will send you the newest  Reseqtools (iTools_CodeXX.tar.gz)  for you  
 iTools_Code20141231.tar.gz
 ==========
 Function Introduce
