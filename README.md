@@ -10,7 +10,7 @@ iTools_Code20141231.tar.gz
 ==========
 Function Introduce
 iTools has 10 module, every module is the tool for dealing with specific format files. Here we main list 9  the most important modules:
-<br/>1 Fatools                   main deals with Fasta format;
+<br/>1 Fatools <p><p><p><p><p><p><p> main deals with Fasta format;
 <br/>2 FqTools                  deals with Fastq format;
 <br/>3 SOAPtools                deals with SOAP format which is the result of SOAP[3].
 <br/>4 CNSTools                 deals with cns format which is the result of soapsnp[4].
