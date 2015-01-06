@@ -1,4 +1,4 @@
-Reseqtools
+<b>Reseqtools</b>
 ==========
 
 A Toolkit for analyzing next-generation DNA Re-Sequencing data
@@ -6,11 +6,11 @@ A Toolkit for analyzing next-generation DNA Re-Sequencing data
 ==========
 If you have any question ,contact the email: hewm2008@gmail.com  /  hewm2008@qq.com  and also join the QQ Group : 125293663
 we will send you the newest  Reseqtools (iTools_CodeXX.tar.gz)  for you  
-iTools_Code20141230.tar.gz
+iTools_Code20141231.tar.gz
 ==========
 Function Introduce
 iTools has 10 module, every module is the tool for dealing with specific format files. Here we main list 9  the most important modules:
-1 Fatools                   main deals with Fasta format;
+<br/>1 Fatools                   main deals with Fasta format;
 2 FqTools                  deals with Fastq format;
 3 SOAPtools                deals with SOAP format which is the result of SOAP[3].
 4 CNSTools                 deals with cns format which is the result of soapsnp[4].
