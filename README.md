@@ -9,9 +9,10 @@ we will send you the newest  Reseqtools (iTools_CodeXX.tar.gz)  for you
 iTools_Code20141231.tar.gz
 ==========
 Function Introduce
+<pre>
 iTools has 10 module, every module is the tool for dealing with specific format files. Here we main list 9  the most important modules:
-<br/>1 Fatools </td><td>  main deals with Fasta format;
-<br/>2 FqTools   main deals with Fastq format;
+<br/>1 Fatools                  main deals with Fasta format;
+<br/>2 FqTools                  main deals with Fastq format;
 <br/>3 SOAPtools                deals with SOAP format which is the result of SOAP[3].
 <br/>4 CNSTools                 deals with cns format which is the result of soapsnp[4].
 <br/>5 XamTools                 deals with sam/bam format which is the result of bwa[5]
@@ -22,7 +23,7 @@ iTools has 10 module, every module is the tool for dealing with specific format 
 <br/>10 Vartools                 Tools For SOAP Variant
 <br/>11 Othrtools                LDDecay etc
 <br/>Users also can comprehensive understand of function by get the readme/ppt
-
+</pre>
 ==========
 <br/>重测序分析集成工具包 linux 64位平台 静态编译 chmod 便可以直接运行了 （ReSeqTools/iTools）
 <br/>即在linux64机上只须 tar -zxvf  ReSeqTools_XXX.tar.gz   ;  cd   iTools_Code;  chmod 775 iTools ;  ./ iTools  -h   ; 无须重新make 
