@@ -11,18 +11,18 @@ iTools_Code20141231.tar.gz
 Function Introduce
 <pre>
 iTools has 10 module, every module is the tool for dealing with specific format files. Here we main list 9  the most important modules:
-<br/>1 Fatools                  main deals with Fasta format;
-<br/>2 FqTools                  main deals with Fastq format;
-<br/>3 SOAPtools                deals with SOAP format which is the result of SOAP[3].
-<br/>4 CNSTools                 deals with cns format which is the result of soapsnp[4].
-<br/>5 XamTools                 deals with sam/bam format which is the result of bwa[5]
-<br/>6 Gfftools                 deals with gff format which is the genome annotation file.
-<br/>7 Formatools               is the converter of some Custom format file.
-<br/>8 Gametools                is the package for some classics games
-<br/>9 Filetools                 is the tools for file with fixed format 
-<br/>10 Vartools                 Tools For SOAP Variant
-<br/>11 Othrtools                LDDecay etc
-<br/>Users also can comprehensive understand of function by get the readme/ppt
+1 Fatools                  main deals with Fasta format;
+2 FqTools                  main deals with Fastq format;
+3 SOAPtools                deals with SOAP format which is the result of SOAP[3].
+4 CNSTools                 deals with cns format which is the result of soapsnp[4].
+5 XamTools                 deals with sam/bam format which is the result of bwa[5]
+6 Gfftools                 deals with gff format which is the genome annotation file.
+7 Formatools               is the converter of some Custom format file.
+8 Gametools                is the package for some classics games
+9 Filetools                 is the tools for file with fixed format 
+10 Vartools                 Tools For SOAP Variant
+11 Othrtools                LDDecay etc
+>Users also can comprehensive understand of function by get the readme/ppt
 </pre>
 ==========
 <br/>重测序分析集成工具包 linux 64位平台 静态编译 chmod 便可以直接运行了 （ReSeqTools/iTools）
