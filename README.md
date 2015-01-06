@@ -2,7 +2,6 @@
 ==========
 
 A Toolkit for analyzing next-generation DNA Re-Sequencing data
-<br/>重测序软件工具包
 
 ==========
 If you have any question ,contact the email: hewm2008@gmail.com  /  hewm2008@qq.com  and also join the QQ Group : 125293663
@@ -28,7 +27,7 @@ iTools has 10 module, every module is the tool for dealing with specific format 
 ==========
 <br/>重测序分析集成工具包 linux 64位平台 静态编译 chmod 便可以直接运行了 （ReSeqTools/iTools）
 <br/>即在linux64机上只须 tar -zxvf  ReSeqTools_XXX.tar.gz   ;  cd   iTools_Code;  chmod 775 iTools ;  ./ iTools  -h   ; 无须重新make 
-<br/>QQ交流群 群名称是Reseqtools  QQ群号： 125293663
+<br/>QQ交流群 群名称是Reseqtools  <b><i>QQ群号</b></i>： 125293663
 
 <br/>硕士毕业文章Thesis Disseration Paper （Master）: 
 <br/>http://cdmd.cnki.com.cn/Article/CDMD-10561-1013318279.htm
@@ -40,8 +39,8 @@ http://www.geneticsmr.com//year2013/vol12-4/pdf/gmr3109.pdf
 <br/>The paper (title: ReSeqTools: an integrated toolkit for large-scale next-generation sequencing based resequencing analysis  )is here:
 http://www.geneticsmr.com//year2013/vol12-4/pdf/gmr3109.pdf
 
-
 <br/> Communication & Discussion QQ Group: 125293663
 If you have any question ,contact the email: hewm2008@gmail.com/hewm2008@qq.com  and also join the QQ Group : 125293663
 
+<br/>重测序软件工具包
 Fasta  Fastq  SOAP  Sam Bam Gff CNS
