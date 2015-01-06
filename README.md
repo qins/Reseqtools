@@ -1,7 +1,7 @@
-                                  Reseqtools<
+Reseqtools
 ==========
 
-                      A Toolkit for analyzing next-generation DNA Re-Sequencing data
+<b>A Toolkit for analyzing next-generation DNA Re-Sequencing data</b>
 
 ==========
 If you have any question ,contact the email: hewm2008@gmail.com  /  hewm2008@qq.com  and also join the<b> QQ Group : 125293663
